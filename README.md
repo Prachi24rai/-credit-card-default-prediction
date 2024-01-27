@@ -47,4 +47,4 @@ Evaluate the trained models on the validation set using appropriate evaluation m
 - Scikit-learn
 
 ## Presentation
-Brief Summary Presentation of the project can be found [here].(https://drive.google.com/file/d/1Dd4zhMNhThPk7RCn1wHyheijA8cLv1lz/view?usp=drive_link)
+Brief Summary Presentation of the project can be found [here](https://drive.google.com/file/d/1Dd4zhMNhThPk7RCn1wHyheijA8cLv1lz/view?usp=drive_link)
